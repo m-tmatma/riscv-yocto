@@ -1,5 +1,7 @@
 bin
+container/home/yocto/.subversion
 container/home/yocto/sources/.repo
 container/home/yocto/sources/meta-openembedded
 container/home/yocto/sources/meta-riscv
 container/home/yocto/sources/openembedded-core
+container/opt
