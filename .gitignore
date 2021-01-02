@@ -2,9 +2,11 @@ bin
 container/home/yocto/.subversion
 container/home/yocto/.bash_history
 container/home/yocto/.wget-hsts
+container/home/yocto/downloads
 container/home/yocto/sources/.repo
 container/home/yocto/sources/build
 container/home/yocto/sources/meta-openembedded
 container/home/yocto/sources/meta-riscv
 container/home/yocto/sources/openembedded-core
 container/opt
+nohup.out*
