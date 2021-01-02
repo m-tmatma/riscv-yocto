@@ -44,7 +44,7 @@ RUN apt-get update && apt-get install -y  bash-completion
 ######################################################################################
 #
 ######################################################################################
-LABEL description=yocto-dart-zeus
-LABEL giturl=https://github.com/m-tmatma/yocto-dart.git
+LABEL description=riscv-yocto
+LABEL giturl=https://github.com/m-tmatma/riscv-yocto.git
 LABEL version=1
 
