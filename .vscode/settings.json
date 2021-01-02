@@ -1,0 +1,14 @@
+{
+    "editor.renderWhitespace": "all",
+    "files.exclude": {
+        "bin": true,
+        "container/home/yocto/.bash_history": true,
+        "container/home/yocto/.subversion": true,
+        "container/home/yocto/.wget-hsts": true,
+        "container/home/yocto/downloads": true,
+        "container/home/yocto/sources/.repo": true,
+        "container/home/yocto/sources/build": true,
+        "container/opt": true,
+        "nohup.out*": true
+    }
+}
