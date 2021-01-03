@@ -1,5 +1,8 @@
 {
     "editor.renderWhitespace": "all",
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "bracketLens.mode": "auto",
     "files.exclude": {
         "bin": true,
         "container/home/yocto/.bash_history": true,
