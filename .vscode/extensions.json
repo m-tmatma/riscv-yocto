@@ -1,0 +1,17 @@
+{
+    "recommendations": [
+        "shardulm94.trailing-spaces",
+        "coenraads.bracket-pair-colorizer-2",
+        "vscode-icons-team.vscode-icons",
+        "eamodio.gitlens",
+        "ibm.output-colorizer",
+        "emilast.logfilehighlighter",
+        "knisterpeter.vscode-github",
+        "ms-python.python",
+        "kevinrose.vsc-python-indent",
+        "streetsidesoftware.code-spell-checker",
+        "mhutchie.git-graph",
+        "eugenwiens.bitbake",
+        "wraith13.bracket-lens"
+    ]
+}
