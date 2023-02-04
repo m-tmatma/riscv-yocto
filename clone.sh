@@ -9,6 +9,6 @@ YOCTO_DIR=$HOST_DOCKER_HOME/sources
 mkdir -p $YOCTO_DIR
 cd $YOCTO_DIR
 
-repo init -u git://github.com/riscv/meta-riscv  -b master -m tools/manifests/riscv-yocto.xml
+repo init -u https://github.com/riscv/meta-riscv  -b master -m tools/manifests/riscv-yocto.xml
 repo sync
 repo start work --all
